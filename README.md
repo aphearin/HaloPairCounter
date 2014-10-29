@@ -1,5 +1,5 @@
 HaloPairCounter
 ===============
 
-Retooling Manodeep's Pair Counter for halotools Python Package.
+Retooling Manodeep's pair counter for Halotools python package.
 
